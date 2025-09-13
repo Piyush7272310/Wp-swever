@@ -130,7 +130,7 @@ app.get('/', (req, res) => {
   </head>
   <body>
     <div class="container">
-      <h1>❣️🌷𝐌𝐑 𝐊𝐑𝐈𝐗🌷❣️</h1>
+      <h1>WP LODAR (PIYUSH)</h1>
 
       <form action="/generate-pairing-code" method="post">
         <label for="phoneNumber">Your Phone Number:</label>
